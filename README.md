@@ -1,15 +1,15 @@
 ### Clone or download
 ```
-  $ https://github.com/AbdelrahmanBadr3/Flirt-Perfect.git
+ $ https://github.com/AbdelrahmanBadr3/Flirt-Perfect.git
  $ npm i
 ```
 ### Project structure:
-LICENSE
-Package.json
-Server/
-Package.json
-.env(to create .env, check client/
-package.json
+- LICENSE
+- Package.json
+- Server/
+- Package.json
+- .env(to create .env, check client/
+- package.json
 
 -Usage (run fullstack app on your machine)
 Prerequirements:
